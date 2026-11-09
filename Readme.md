@@ -1,4 +1,4 @@
-# 🎮 Valorant Wiki - Sistema de Tier List e Lore
+#  Valorant Wiki - Sistema de Tier List e Lore
 
 Este projeto é uma enciclopédia interativa (Wiki) sobre o universo do jogo **Valorant**, contendo páginas de história cronológica, listagem de agentes e mapas, além de uma aplicação funcional de **Tier List** com sistema de arrastar e soltar.
 
@@ -11,7 +11,7 @@ Este projeto é uma enciclopédia interativa (Wiki) sobre o universo do jogo **V
 *   **HTML5 Drag and Drop Nativo:** Integração via JavaScript simples para permitir que os elementos com a propriedade `draggable="true"` mudem de container dinamicamente ao serem arrastados com o mouse.
 
 
-## 🎨 Escolhas de Design
+##  Escolhas de Design
 
 *   **Identidade Visual Valorant:** O site utiliza a cor vermelha vibrante oficial (`#bd3944`) como plano de fundo principal e cor de destaque do cabeçalho.
 *   **Contraste e Legibilidade:** Para balancear o fundo vermelho vivo sem cansar a visão do usuário, os blocos de conteúdo e textos utilizam tonalidades de vinho extremamente escuras (`#3f1921` e `#53212b`) com textos totalmente brancos (`#ffffff`). Isso garante uma leitura confortável e um visual moderno.
