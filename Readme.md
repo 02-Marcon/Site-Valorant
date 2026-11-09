@@ -1,6 +1,6 @@
-#  Valorant Wiki - Sistema de Tier List e Lore
+#  Valorant - Sistema de Tier List e Lore
 
-Este projeto é uma enciclopédia interativa (Wiki) sobre o universo do jogo **Valorant**, contendo páginas de história cronológica, listagem de agentes e mapas, além de uma aplicação funcional de **Tier List** com sistema de arrastar e soltar.
+Este projeto contem informações simples sobre o universo do jogo **Valorant**, contendo páginas de história cronológica, listagem de agentes e mapas, além de uma aplicação funcional de **Tier List** com sistema de arrastar e soltar.
 
 
 
