@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Cabeçalho Fixo Vermelho */
+.cabecalho-fixo {
+    position: fixed;       
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #bd3944; /* Cor solicitada */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    z-index: 1000;         
+}
+
+/* Estilo dos Links */
+.cabecalho-fixo nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+/* Espaço para o conteúdo não sumir atrás do menu */
+.conteudo {
+    padding: 85px 20px 20px 20px;
+}
